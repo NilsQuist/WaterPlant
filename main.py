@@ -1,3 +1,9 @@
 #Nils Quist
 
-"""Testing my ability to save to GitHub"""
+import keyboard
+import os
+
+
+keyboard.wait("w")
+print("o")
+print("|")
